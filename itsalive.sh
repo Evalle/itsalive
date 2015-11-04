@@ -8,7 +8,7 @@ itsalive()
     [ $? -eq 0 ] && echo Node with IP: $i is up.
 }
 
-for i in $NETWORK{1..255} 
+for i in $NETWORK.{1..254} 
 do
     itsalive $i & disown
 done
