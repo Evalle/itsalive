@@ -2,7 +2,7 @@
 Actually it is "It's alive!" - a small script which can be used to find out which of hosts from some local network is up.
 ![itsalive](itsalive.jpg)
 
-Free software
+## Free software
 
 itsalive - Copyright (C) 2015 Evgeny Shmarnev shmarnev@gmail.com
 
